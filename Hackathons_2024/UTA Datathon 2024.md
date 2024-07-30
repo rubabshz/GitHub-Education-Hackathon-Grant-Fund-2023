@@ -40,9 +40,10 @@ b) It also kept the hackers motivated especially during the late hours at night 
 
 We had some very interesting submissions especially for the visualization challenges under the Vision Quest challenge, and the submission that was made for the Drama Llamma Traffic Jamma challenge after TBs of data proccessing.
 (https://uta-datathon-2024.devpost.com/project-gallery)
+
 Event Photos
 (https://private-user-images.githubusercontent.com/33084654/353265863-d0e64e56-02f3-4103-901a-5c34a725a47c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyOTc3MzgsIm5iZiI6MTcyMjI5NzQzOCwicGF0aCI6Ii8zMzA4NDY1NC8zNTMyNjU4NjMtZDBlNjRlNTYtMDJmMy00MTAzLTkwMWEtNWMzNGE3MjVhNDdjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI5VDIzNTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3YzQ0NzIwMTc3ODVhOTNmMGNkMDdlODk2Njc4OWY5NmIyNDVjODg1YzBiYmE1OTQ2MGEyMzE1YTU4YWJlYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IZZQpZkvQT6l0grXsErHJBV1nsDtEQENiPszsL4_orI)
-
+Hackers after winning their prize :)
 
 Overall, the event was a success. UTA Libraries looks forward to conducting similar datathon in the future (April 2025). For queries or converns please reach out to datathon@uta.edu
 follow us on Instagram 
